@@ -1,10 +1,18 @@
 # Amazon Product Reviews Sentiment Analysis
-[Review Analysis Live Demo](https://huggingface.co/spaces/shivikamittal/ReviewAnalysis)
+
 ![amazonReviews](https://github.com/user-attachments/assets/0cb71caf-ee0f-45b3-abe7-508f78ec57ed)
 
 A real-time sentiment analysis system that evaluates product reviews from Amazon to determine whether they convey positive or negative sentiment. Built with Python, Pandas, and deep learning frameworks, the system leverages NLP techniques to deliver accurate sentiment insights and enhance customer feedback analysis.
 
+##  Tech Stack
+
+- **Language**: Python  
+- **Data Manipulation**: Pandas  
+- **Deep Learning**: TensorFlow, Keras  
+- **Deployment / UI**: (e.g., Flask, FastAPI, or Gradio — adjust if applicable)  
+- **Serialization / Model Management**: Saved tokenizer, trained model files (e.g., `.h5`, `.pkl`)
 ---
+[Review Analysis Live Demo](https://huggingface.co/spaces/shivikamittal/ReviewAnalysis)
 
 ##  Features
 
@@ -16,13 +24,7 @@ A real-time sentiment analysis system that evaluates product reviews from Amazon
 
 ---
 
-##  Tech Stack
 
-- **Language**: Python  
-- **Data Manipulation**: Pandas  
-- **Deep Learning**: TensorFlow, Keras  
-- **Deployment / UI**: (e.g., Flask, FastAPI, or Gradio — adjust if applicable)  
-- **Serialization / Model Management**: Saved tokenizer, trained model files (e.g., `.h5`, `.pkl`)
 
 ---
 
